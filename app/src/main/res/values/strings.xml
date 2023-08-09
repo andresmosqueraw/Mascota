@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Mascota</string>
+    <string name="tv_titulo">Mi Súper Mascota</string>d
+    <string name="tv_gatito"></string>
+    <string name="et_nombre_mascota">Nombre de la Mascota</string>
+    <string name="rg_tipo">Tipo:</string>
+    <string name="rb_gato">Gato</string>
+    <string name="rb_perro">Perro</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="tv_resultado"></string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="iv_patita">Imagen de mascota fondo</string>
+    <string name="iv_gatito">Imagen de gatito</string>
 </resources>
